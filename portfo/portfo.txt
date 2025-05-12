@@ -1,0 +1,4 @@
+Project Title: "EDA GPT: Your OpenSource Data Analysis Companion"
+Project Link: "https://github.com/Tajaar/EDA_GPT"
+Domains: ["LLM", "EDA", "Data Pipeline", "NLP"]
+Description: "EDA GPT is an open-source project that enables users to upload datasets or PDFs and perform automated Exploratory Data Analysis using Large Language Models (LLMs). It supports structured and unstructured data through modules like a data pipeline, retriever chains, LangChain integration, and interactive visualizations. The tool provides deep insights, natural language responses, and visual summaries, making it ideal for analysts and developers seeking AI-powered data understanding."
